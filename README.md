@@ -20,13 +20,13 @@ Conforme [outros grupos de estudos]() da FGF College Work, nós temos um [roadma
 
 ## Material de apoio ao grupo de estudos
 
-- [trilha de estudos](material/roadmap.md)
-- [livros](material/dir/livros.md)
-- [comunidades](material/dir/comunidades.md)
-- [cursos](material/dir/cursos.md)
-- [eventos](material/dir/eventos.md)
-- [newsletters](material/dir/newsletters.md)
-- [sites](material/dir/sites.md)
+- [trilha de estudos](material/diretorio/roadmap/README.md)
+- [livros](material/diretorio/livros/README.md)
+- [comunidades](material/diretorio/comunidades/README.md)
+- [cursos](material/diretorio/cursos/README.md)
+- [eventos](material/diretorio/eventos/README.md)
+- [newsletters](material/diretorio/newsletters/README.md)
+- [sites](material/diretorio/sites/README.md)
 
 ## Responsáveis
 
