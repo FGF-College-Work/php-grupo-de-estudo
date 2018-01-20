@@ -8,9 +8,11 @@ Repositório do grupo de estudos sobre PHP do [Grupo de Estudo FGF](https://gith
 
 ## Como funciona
 
-Este grupo se destina ao estudo de [xxx].
+Este grupo se destina ao estudo de PHP.
 
-Conforme [outros grupos de estudos]() da FGF College Work, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e pretendemos fazer reuniões sobre o assunto.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png)
+
+Conforme [outros grupos de estudos]() da FGF College Work, nós temos um [roadmap](material/diretorio/roadmap/README.md) de tópicos para estudar juntos e pretendemos fazer reuniões sobre o assunto.
 
 
 ## Reuniões
