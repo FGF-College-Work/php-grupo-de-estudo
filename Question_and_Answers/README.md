@@ -20,7 +20,7 @@ Nossas mais de 1000 perguntas e respostas do PHP centram-se em todas as áreas d
 
 ---
 
-- ### [Aqui está a lista de perguntas e respostas sobre programação PHP com mais de 100 tópicos:]()
+- ### [Aqui está a lista de perguntas e respostas sobre programação PHP com mais de 100 tópicos:](1000PHP_MCQs/README.md)
 
 - ### [Top 100 Perguntas e Respostas de Entrevista sobre PHP]()
 
