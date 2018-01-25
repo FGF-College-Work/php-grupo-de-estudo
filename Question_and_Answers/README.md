@@ -26,5 +26,7 @@ Nossas mais de 1000 perguntas e respostas do PHP centram-se em todas as áreas d
 
 - ### [Perguntas e respostas de entrevista sobre PHP para iniciantes]()
 
+- ### [25 perguntas e respostas de entrevista do PHP]()
+
 ---
 
