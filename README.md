@@ -29,6 +29,7 @@ Conforme [outros grupos de estudos]() da FGF College Work, nós temos um [roadma
 - [eventos](material/diretorio/eventos/README.md)
 - [newsletters](material/diretorio/newsletters/README.md)
 - [sites](material/diretorio/sites/README.md)
+- [Perguntas e Respostas sobre php](Question_and_Answers/README.md)
 
 ## Responsáveis
 
