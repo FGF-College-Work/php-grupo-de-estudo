@@ -18,8 +18,13 @@ Nossas mais de 1000 perguntas e respostas do PHP centram-se em todas as áreas d
 - Qualquer pessoa que se prepare para exames de admissão e outros exames competitivos
 - Todos - Experientes, Iniciantes e Estudantes
 
-### [Aqui está a lista de perguntas e respostas sobre programação PHP com mais de 100 tópicos:]()
+---
 
-### [Top 100 Perguntas e Respostas de Entrevista sobre PHP]()
+- ### [Aqui está a lista de perguntas e respostas sobre programação PHP com mais de 100 tópicos:]()
 
-### [Perguntas e respostas de entrevista sobre PHP para iniciantes]()
+- ### [Top 100 Perguntas e Respostas de Entrevista sobre PHP]()
+
+- ### [Perguntas e respostas de entrevista sobre PHP para iniciantes]()
+
+---
+
