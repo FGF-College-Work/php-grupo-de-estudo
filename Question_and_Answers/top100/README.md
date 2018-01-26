@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/PHP_Logo.png"></p>
 
+---
+
 **1) O que é o PHP?**
 
 O PHP é uma linguagem na web baseada em scripts que permite aos desenvolvedores criar dinamicamente páginas da web geradas.
@@ -10,7 +12,7 @@ O PHP é uma linguagem na web baseada em scripts que permite aos desenvolvedores
 
 PHP significa PHP: Hypertext Preprocessor.
 
-**3) Para qual idioma de programação o PHP se parece?**
+**3) Com qual linguagem de programação o PHP se parece?**
 
 Sintaxe PHP lembra Perl e C
 
@@ -43,3 +45,25 @@ Basta usar o programa PHP CLI com a opção -a como segue:
 php -a
 
 ```
+
+**8) Qual é a maneira correta e a mais comum de começar e terminar um bloco de código do PHP?**
+
+As duas formas mais comuns de iniciar e terminar um script PHP são: <? Php [- código PHP -]?> E <? [- código PHP -]?>
+
+**9) Como podemos exibir a saída diretamente para o navegador?**
+
+Para poder exibir a saída diretamente no navegador, devemos usar as tags especiais <?= e ?>.
+
+**10) Qual a principal diferença entre PHP 4 e PHP 5?**
+
+O PHP 5 apresenta muitos recursos adicionais de POO (Programação Orientada a Objeto).
+
+**11) A herança múltipla é suportada no PHP?**
+
+O PHP inclui apenas uma herança única, significa que uma classe pode ser estendida a partir de uma única classe usando a palavra-chave 'extended'.
+
+**12) Qual é o significado de uma final class e um final method?**
+
+'final' é introduzido no PHP5. Final class significa que esta classe não pode ser estendida e um final method não pode ser superado.
+
+
