@@ -18,4 +18,4 @@ function get_array_elems($arrResult, $where="array"){
 
   get_array_elems($arrResult); 
 
-?> A recursive function to traverse a multi-dimensional array where the
+?> 
